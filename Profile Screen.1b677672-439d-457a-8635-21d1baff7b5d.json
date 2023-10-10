@@ -161,13 +161,13 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Color:",
+                "Text": "Fav Color:",
                 "FontSize": 18,
                 "CustomFont": "",
                 "LineHeight": 1,
                 "Color": "rgba(0, 0, 0, 1)",
                 "Height": 33,
-                "Width": 77,
+                "Width": 90,
                 "Visible": true,
                 "X": 250,
                 "Y": 473.9930725097656,
@@ -217,7 +217,7 @@
                     "left": "53.60471671372079%",
                     "top": "66.49336835170865%"
                 },
-                "children": "Color:"
+                "children": "Fav Color:"
             },
             "children": [],
             "id": "fe21de97-0af5-4104-930b-19bf8d1e1425",
