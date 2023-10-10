@@ -55,6 +55,36 @@
     },
     "children": [
         {
+            "type": "AdMobBanner",
+            "label": "AdMob Banner",
+            "translatedName": "AdMob Banner",
+            "properties": {
+                "Visible": true,
+                "AdUnitID": "ca-app-pub-3940256099942544/6300978111",
+                "AdUnitID_iOS": "ca-app-pub-3940256099942544/6300978111",
+                "TestMode": true,
+                "Width": 375,
+                "Height": 32,
+                "X": -3,
+                "ParentId": "26e9ecd5-4882-4945-95eb-b3fce88c54cc",
+                "Y": 583.0393981933594,
+                "RelativeX": -3,
+                "RelativeY": 583,
+                "position": "absolute",
+                "edgeOffsets": 583.0393981933594,
+                "style": {
+                    "position": "absolute",
+                    "left": "22.00435348643102%",
+                    "top": "84.11501506637505%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "4036b836-ac9d-4178-b2f8-0f891aa76c4a",
+            "thunkableVersion": 423,
+            "name": "AdMob_Banner2"
+        },
+        {
             "type": "Image",
             "translatedName": "Image",
             "properties": {
@@ -220,10 +250,10 @@
                 "Height": 119,
                 "Width": 313,
                 "Visible": true,
-                "X": 31.99652862548828,
-                "Y": 470,
-                "RelativeX": 31.99652862548828,
-                "RelativeY": 470,
+                "X": 28,
+                "Y": 441,
+                "RelativeX": 28,
+                "RelativeY": 441,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -264,7 +294,7 @@
                 },
                 "ParentId": "26e9ecd5-4882-4945-95eb-b3fce88c54cc",
                 "position": "absolute",
-                "edgeOffsets": 470.98614501953125,
+                "edgeOffsets": 441,
                 "children": ""
             },
             "children": [],

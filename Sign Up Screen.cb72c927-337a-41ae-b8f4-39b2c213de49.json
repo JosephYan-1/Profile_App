@@ -55,6 +55,36 @@
     },
     "children": [
         {
+            "type": "AdMobBanner",
+            "label": "AdMob Banner",
+            "translatedName": "AdMob Banner",
+            "properties": {
+                "Visible": true,
+                "AdUnitID": "ca-app-pub-3940256099942544/6300978111",
+                "AdUnitID_iOS": "ca-app-pub-3940256099942544/6300978111",
+                "TestMode": true,
+                "Width": 375,
+                "Height": 32,
+                "X": 0,
+                "ParentId": "cb72c927-337a-41ae-b8f4-39b2c213de49",
+                "Y": 598,
+                "RelativeX": 0,
+                "RelativeY": 598,
+                "position": "absolute",
+                "edgeOffsets": 598,
+                "style": {
+                    "position": "absolute",
+                    "left": "9.185472858047367%",
+                    "top": "68.82245108129345%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "dfcf56b0-878e-4cc4-ba7d-d7af576cda18",
+            "thunkableVersion": 423,
+            "name": "AdMob_Banner1"
+        },
+        {
             "type": "Image",
             "translatedName": "Image",
             "properties": {
@@ -114,9 +144,9 @@
                 "Width": 256,
                 "Visible": true,
                 "X": 58,
-                "Y": 548,
+                "Y": 509,
                 "RelativeX": 58,
-                "RelativeY": 548,
+                "RelativeY": 509,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -157,7 +187,7 @@
                 },
                 "ParentId": "cb72c927-337a-41ae-b8f4-39b2c213de49",
                 "position": "absolute",
-                "edgeOffsets": 548,
+                "edgeOffsets": 509,
                 "children": ""
             },
             "children": [],
